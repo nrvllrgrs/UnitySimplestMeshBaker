@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.simplestmeshbaker",
+  "displayName": "Simplest MeshBaker",
+  "version": "2.1.0",
+  "description": "Simple plugin that helps you bake several meshes to one in couple clicks",
+  "author": "nrvllrgrs",
+  "unity": "2019.3",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/nrvllrgrs/UnitySimplestMeshBaker.git"
+},
+  "keywords": [
+  "Unity3D",
+  "Unity",
+  "Baker",
+  "Mesh"
+], 
+  "license": "BSD3"
+}
